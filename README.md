@@ -7,6 +7,7 @@
 ```bash
 sudo pacman -S base-devel --needed
 git clone https://github.com/BlackBaroness/vt-messenger-pkgbuild
+cd vt-messenger-pkgbuild/
 makepkg -si
 ```
 
