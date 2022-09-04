@@ -6,8 +6,8 @@
 ## Установка
 ```bash
 sudo pacman -S base-devel --needed
-git clone https://github.com/BlackBaroness/vt-messenger-pkgbuild
-cd vt-messenger-pkgbuild/
+git clone https://github.com/BlackBaroness/vtosters-messenger-arch
+cd vtosters-messenger-arch/
 makepkg -si
 ```
 
