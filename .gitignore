@@ -1,5 +1,4 @@
-*
-!README.md
-!.gitignore
-!linux64.zip
-!PKGBUILD
+pkg
+src
+*.zst
+.idea
