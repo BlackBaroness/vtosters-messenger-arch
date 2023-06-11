@@ -8,7 +8,7 @@ license=(unknown)
 depends=(alsa-lib expat gtk3 libgcrypt libgnome-keyring libnotify libxss libxtst nss xdg-utils)
 optdepends=(gnome-keyring)
 source_x86_64=("linux64.zip")
-sha256sums_x86_64=('06feab09d8410349d0635f1757c0afc74327c15b849d3e05fa1a7ea6d31449f3')
+sha256sums_x86_64=('581ac9972381b22e5445dbfc3cef12e4b42c506bae0aba64f28f91265018c8d8')
 noextract=(linux64.zip)
 options=(!strip)
 

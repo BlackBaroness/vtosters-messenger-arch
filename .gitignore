@@ -1,1 +1,5 @@
-.idea/
+*
+!README.md
+!.gitignore
+!linux64.zip
+!PKGBUILD
